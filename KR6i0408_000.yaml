@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6i0408/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 緣起聖道經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T16/T16n0714.xml
+    old_id: T16n0714
+hash: sha256:cd7ed4047974181fab23c5d70007e487948d1f8fe2646f9891d8970366f34280
