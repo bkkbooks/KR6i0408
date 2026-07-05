@@ -34,9 +34,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6i0408_000.yaml, hash: 'sha256:cd7ed4047974181fab23c5d70007e487948d1f8fe2646f9891d8970366f34280'}
-  - {seq: 1, filename: KR6i0408_001.yaml, hash: 'sha256:873c084b31c1c0d1eb2cab0199112bb8cedc235f3c4bff7cb1b51e0f92f7c56a'}
+  - {seq: 1, filename: KR6i0408_001.yaml, hash: 'sha256:e4460164b68d39843607b2058ae92038db63288e01c0785d29c5fcdddd8b22a5'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6i0408_001.markers.yaml, hash: 'sha256:33be0a641e9c637ad790d8f17864b0c5c45befdb64fc655aa00788e2e3237089'}
+  - {seq: 0, role: markers, filename: assets/KR6i0408_000.markers.yaml, hash: 'sha256:457c8785a7987c32714483162b5a3e983cd04e79b1ff5c7056473626f29e6321'}
+  - {seq: 1, role: markers, filename: assets/KR6i0408_001.markers.yaml, hash: 'sha256:c17d8c0528ebae2714274bd2d67dd19eb9d135f2cac4b5fc53b1da5880a8f711'}
 table_of_contents:
 - ref:
     seq: 1
@@ -48,7 +49,4 @@ table_of_contents:
   label: 緣起聖道經
   type: juan
   level: 1
-hash: sha256:59d73c3939b8785f71002b22b5990595c7d82b96b41168d0537442cc41358dbc
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:be5fd10faa430ca0ae9c72c17ad55bf748ee809513e1c35caa6fbde8d75139f4
